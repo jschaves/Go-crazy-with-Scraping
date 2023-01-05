@@ -1,5 +1,8 @@
 # Go-crazy-with-Scraping
 Go crazy with Scraping
+
+Para los que quieren saber más de nuestras administraciones.
+
 # scraping-contrataciondelestado-es.js
 Ejemplo de scrapin de las Contrataciones del Estado Español
 
@@ -12,6 +15,7 @@ page.evaluate(() => document.querySelectorAll(".ancho400 > input")[3].value = '3
 Resultado archivos CSV con el nombre de la empresa formateado
 
 # concesiones_gobierno_es.js 
+Ejemplo de scrapin de las concesiones del Estado Español
 Lista en CSV todas las concesiones de España
 
 Node módulos Puppeteer + fs + path
