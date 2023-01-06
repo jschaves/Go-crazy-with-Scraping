@@ -2,7 +2,7 @@
 Go crazy with Scraping
 
 Para los que quieren saber más de nuestras administraciones.
-
+//instalar node https://nodejs.org/es/download/
 # scraping-contrataciondelestado-es.js
 
 node scraping-contrataciondelestado-es.js
