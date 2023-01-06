@@ -5,7 +5,7 @@ Para los que quieren saber más de nuestras administraciones.
 
 instalar node:
 
-[https://nodejs.org/es/download/](https://nodejs.org/es/download/){:target="_blank"}
+<a href="https://nodejs.org/es/download/" target="_blank">NODE</a>
 
 # scraping-contrataciondelestado-es.js
 
