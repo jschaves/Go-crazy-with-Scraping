@@ -5,7 +5,7 @@ Para los que quieren saber más de nuestras administraciones.
 
 instalar node:
 
-[http://stackoverflow.com](https://nodejs.org/es/download/){:target="_blank" rel="noopener"}
+[https://nodejs.org/es/download/](https://nodejs.org/es/download/)
 
 # scraping-contrataciondelestado-es.js
 
