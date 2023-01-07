@@ -9,7 +9,7 @@ instalar node npm:
 
 instalat puppeteer:
 
-`<b> > npm i puppeteer</b>`
+<b>` > npm i puppeteer `</b>
 
 # scraping-contrataciondelestado-es.js
 
