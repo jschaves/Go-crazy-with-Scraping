@@ -13,7 +13,7 @@ instalat puppeteer:
 
 # scraping-contrataciondelestado-es.js
 
-<b>node scraping-contrataciondelestado-es.js</b>
+<b background-color: #000;color: #fff;padding: 10px;>node scraping-contrataciondelestado-es.js</b>
 
 Ejemplo de scrapin de las Contrataciones del Estado Español
 
