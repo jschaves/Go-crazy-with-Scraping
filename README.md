@@ -14,7 +14,7 @@ instalat puppeteer:
 # scraping-contrataciondelestado-es.js
 
 <b>` > node scraping-contrataciondelestado-es.js `</b>
-
+<b>URL: https://contrataciondelestado.es/wps/portal/licitaciones </b>
 Ejemplo de scrapin de las Contrataciones del Estado Español
 
 Node módulos Puppeteer + fs + path
