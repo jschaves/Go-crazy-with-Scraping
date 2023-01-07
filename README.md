@@ -11,6 +11,25 @@ instalat puppeteer:
 
 <b>` > npm i puppeteer `</b>
 
+# scraping-contrataciondelestado-es2.js
+
+<b>` > node scraping-contrataciondelestado-es2.js `</b>
+
+<b>URL: https://contrataciondelestado.es/wps/portal/licitaciones </b>
+
+Ejemplo de scrapin de las Contrataciones del Estado Español
+
+Node módulos Puppeteer + fs + path
+
+Seleccionar estado y fechas a scrapear<br>
+			page.evaluate(() => document.querySelectorAll('input')[3].value = ''),
+			page.evaluate(() => document.querySelectorAll('input')[4].value = ''),
+			page.evaluate(() => document.querySelectorAll('input')[5].value = ''),
+			page.evaluate(() => document.querySelectorAll('input')[6].value = ''),
+			page.evaluate(() => document.querySelectorAll('input')[7].value = '01-01-2020'),
+			page.evaluate(() => document.querySelectorAll('input')[8].value = '31-01-2020'),
+Resultado archivos json
+
 # scraping-contrataciondelestado-es.js
 
 <b>` > node scraping-contrataciondelestado-es.js `</b>
