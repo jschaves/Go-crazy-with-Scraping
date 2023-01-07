@@ -9,7 +9,7 @@ instalar node npm:
 
 instalat puppeteer:
 
-<b style="background-color: #000;color: #fff;padding: 10px;"> > npm i puppeteer</b> `#f03c15`
+<b style=`background-color: #000;color: #fff;padding: 10px;`> > npm i puppeteer</b>
 
 # scraping-contrataciondelestado-es.js
 
