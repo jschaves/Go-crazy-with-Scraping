@@ -23,12 +23,12 @@ Node módulos Puppeteer + fs + path
 
 Seleccionar estado y fechas a scrapear
 
-			page.evaluate(() => document.querySelectorAll('input')[3].value = ''),<br>
-			page.evaluate(() => document.querySelectorAll('input')[4].value = ''),<br>
-			page.evaluate(() => document.querySelectorAll('input')[5].value = ''),<br>
-			page.evaluate(() => document.querySelectorAll('input')[6].value = ''),<br>
-			page.evaluate(() => document.querySelectorAll('input')[7].value = '01-01-2020'),<br>
-			page.evaluate(() => document.querySelectorAll('input')[8].value = '31-01-2020'),<br>
+page.evaluate(() => document.querySelectorAll('input')[3].value = ''),
+page.evaluate(() => document.querySelectorAll('input')[4].value = ''),
+page.evaluate(() => document.querySelectorAll('input')[5].value = ''),
+page.evaluate(() => document.querySelectorAll('input')[6].value = ''),
+page.evaluate(() => document.querySelectorAll('input')[7].value = '01-01-2020'),
+page.evaluate(() => document.querySelectorAll('input')[8].value = '31-01-2020'),
 			
 Resultado archivos json
 
