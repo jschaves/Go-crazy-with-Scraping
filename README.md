@@ -13,7 +13,7 @@ instalat puppeteer:
 
 # scraping-contrataciondelestado-es.js
 
-node scraping-contrataciondelestado-es.js
+<b>node scraping-contrataciondelestado-es.js</b>
 
 Ejemplo de scrapin de las Contrataciones del Estado Español
 
@@ -27,7 +27,7 @@ Resultado archivos CSV con el nombre de la empresa formateado
 
 # concesiones_gobierno_es.js 
 
-node concesiones_gobierno_es.js
+<b style="">node concesiones_gobierno_es.js</b>
 
 Ejemplo de scrapin de las concesiones del Estado Español
 
