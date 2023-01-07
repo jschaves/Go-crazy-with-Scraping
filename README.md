@@ -21,13 +21,15 @@ Ejemplo de scrapin de las Contrataciones del Estado Español
 
 Node módulos Puppeteer + fs + path
 
-Seleccionar estado y fechas a scrapear<br>
-			page.evaluate(() => document.querySelectorAll('input')[3].value = ''),
-			page.evaluate(() => document.querySelectorAll('input')[4].value = ''),
-			page.evaluate(() => document.querySelectorAll('input')[5].value = ''),
-			page.evaluate(() => document.querySelectorAll('input')[6].value = ''),
-			page.evaluate(() => document.querySelectorAll('input')[7].value = '01-01-2020'),
-			page.evaluate(() => document.querySelectorAll('input')[8].value = '31-01-2020'),
+Seleccionar estado y fechas a scrapear
+
+			page.evaluate(() => document.querySelectorAll('input')[3].value = ''),<br>
+			page.evaluate(() => document.querySelectorAll('input')[4].value = ''),<br>
+			page.evaluate(() => document.querySelectorAll('input')[5].value = ''),<br>
+			page.evaluate(() => document.querySelectorAll('input')[6].value = ''),<br>
+			page.evaluate(() => document.querySelectorAll('input')[7].value = '01-01-2020'),<br>
+			page.evaluate(() => document.querySelectorAll('input')[8].value = '31-01-2020'),<br>
+			
 Resultado archivos json
 
 # scraping-contrataciondelestado-es.js
@@ -40,7 +42,8 @@ Ejemplo de scrapin de las Contrataciones del Estado Español
 
 Node módulos Puppeteer + fs + path
 
-Seleccionar estado y fechas a scrapear<br>
+Seleccionar estado y fechas a scrapear
+
 page.evaluate(() => document.querySelectorAll(".ancho310 > select")[2].value = 'RES'),<br>
 page.evaluate(() => document.querySelectorAll(".ancho400 > input")[2].value = '01-01-2019'),<br>
 page.evaluate(() => document.querySelectorAll(".ancho400 > input")[3].value = '31-03-2019'),<br>
