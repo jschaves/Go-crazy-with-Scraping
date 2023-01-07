@@ -1,7 +1,5 @@
 # Go-crazy-with-Scraping
-Go crazy with Scraping
-
-Para los que quieren saber más de nuestras administraciones.
+Go crazy with Scraping, aprende arecopilar datos con NODE y puppeteer
 
 instalar node npm:
 
@@ -11,13 +9,15 @@ instalat puppeteer:
 
 <b>` > npm i puppeteer `</b>
 
+
+Para los que quieren saber más de nuestras administraciones.
+Ejemplo de scrapin de las Contrataciones y concesiones del Estado Español.
+
 # scraping-contrataciondelestado-es2.js
 
 <b>` > node scraping-contrataciondelestado-es2.js `</b>
 
 <b>URL: https://contrataciondelestado.es/wps/portal/licitaciones </b>
-
-Ejemplo de scrapin de las Contrataciones del Estado Español
 
 Node módulos Puppeteer + fs + path
 
