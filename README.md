@@ -3,9 +3,13 @@ Go crazy with Scraping
 
 Para los que quieren saber más de nuestras administraciones.
 
-instalar node:
+instalar node npm:
 
 <a href="https://nodejs.org/es/download/" target="_blank">NODE</a>
+
+instalat puppeteer
+
+npm i puppeteer
 
 # scraping-contrataciondelestado-es.js
 
