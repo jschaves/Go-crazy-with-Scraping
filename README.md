@@ -31,6 +31,8 @@ Resultado archivos CSV con el nombre de la empresa formateado
 
 <b>` > node concesiones_gobierno_es.js `</b>
 
+<b>URL: https://www.pap.hacienda.gob.es/bdnstrans/GE/es/concesiones/convocatoria/xxxx </b>
+
 Ejemplo de scrapin de las concesiones del Estado Español
 
 Lista en CSV todas las concesiones de España
