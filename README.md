@@ -7,7 +7,7 @@ instalar node npm:
 
 <a href="https://nodejs.org/es/download/" target="_blank">NODE</a>
 
-instalat puppeteer
+instalat puppeteer:
 
 npm i puppeteer
 
