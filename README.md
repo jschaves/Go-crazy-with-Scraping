@@ -10,7 +10,7 @@ instalat puppeteer:
 <b>` > npm i puppeteer `</b>
 
 
-Para los que quieren saber más de nuestras administraciones.
+Para los que quieren saber más de nuestras administraciones.<br>
 Ejemplo de scrapin de las Contrataciones y concesiones del Estado Español.
 
 # scraping-contrataciondelestado-es2.js
@@ -43,8 +43,6 @@ Resultado archivos json
 
 <b>URL: https://contrataciondelestado.es/wps/portal/licitaciones </b>
 
-Ejemplo de scrapin de las Contrataciones del Estado Español
-
 Node módulos Puppeteer + fs + path
 
 Seleccionar estado y fechas a scrapear
@@ -62,8 +60,6 @@ Resultado archivos CSV con el nombre de la empresa formateado
 <b>` > node concesiones_gobierno_es.js `</b>
 
 <b>URL: https://www.pap.hacienda.gob.es/bdnstrans/GE/es/concesiones/convocatoria/xxxx </b>
-
-Ejemplo de scrapin de las concesiones del Estado Español
 
 Lista en CSV todas las concesiones de España
 
