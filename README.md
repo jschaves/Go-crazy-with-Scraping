@@ -9,11 +9,11 @@ instalar node npm:
 
 instalat puppeteer:
 
-<b style=`background-color: #000;color: #fff;padding: 10px;`> > npm i puppeteer</b>
+`<b> > npm i puppeteer</b>`
 
 # scraping-contrataciondelestado-es.js
 
-<b style="background-color: #000;color: #fff;padding: 10px;"> > node scraping-contrataciondelestado-es.js</b>
+`<b> > node scraping-contrataciondelestado-es.js</b>`
 
 Ejemplo de scrapin de las Contrataciones del Estado Español
 
@@ -27,7 +27,7 @@ Resultado archivos CSV con el nombre de la empresa formateado
 
 # concesiones_gobierno_es.js 
 
-<b style="background-color: #000;color: #fff;padding: 10px;"> > node concesiones_gobierno_es.js</b>
+`<b> > node concesiones_gobierno_es.js</b>`
 
 Ejemplo de scrapin de las concesiones del Estado Español
 
