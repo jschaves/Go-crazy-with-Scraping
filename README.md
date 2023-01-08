@@ -68,4 +68,9 @@ Node módulos Puppeteer + fs + path
 Resultado archivos TXT datos.txt formato CSV
 
 <h1>2. Rascando Twitter.</h1>
-<h2></h2>
+<h2>scraping_tendencias_twitter.js</h2>
+Ejempo de como recopilar datos de Twitter.
+
+Recopilar las últimas tendencias
+
+Resultado array con las últimas tendencias 
