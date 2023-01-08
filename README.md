@@ -13,7 +13,7 @@ instalat puppeteer:
 <h1>1. Para los que quieren saber más de nuestras administraciones.</h1>
 Ejemplo de scrapin de las Contrataciones y concesiones del Estado Español.
 
-# scraping-contrataciondelestado-es2.js
+<h2>scraping-contrataciondelestado-es2.js</h2>
 
 <b>` > node scraping-contrataciondelestado-es2.js `</b>
 
@@ -37,7 +37,7 @@ page.evaluate(() => document.querySelectorAll('input')[8].value = '31-01-2020'),
 			
 Resultado archivos json
 
-# scraping-contrataciondelestado-es.js
+<h2>scraping-contrataciondelestado-es.js</h2>
 
 <b>` > node scraping-contrataciondelestado-es.js `</b>
 
@@ -55,7 +55,7 @@ page.evaluate(() => document.querySelectorAll(".ancho400 > input")[3].value = '3
 
 Resultado archivos CSV con el nombre de la empresa formateado
 
-# concesiones_gobierno_es.js 
+<h2>concesiones_gobierno_es.js</h2>
 
 <b>` > node concesiones_gobierno_es.js `</b>
 
@@ -68,4 +68,4 @@ Node módulos Puppeteer + fs + path
 Resultado archivos TXT datos.txt formato CSV
 
 <h1>2. Rascando Twitter.</h1>
-
+<h2></h2>
