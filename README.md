@@ -69,6 +69,10 @@ Resultado archivos TXT datos.txt formato CSV
 
 <h1>2. Rascando Twitter.</h1>
 <h2>scraping_tendencias_twitter.js</h2>
+<b>` > node scraping_tendencias_twitter.js `</b>
+
+<b>URL: https://twitter.com/explore/tabs/trending </b>
+
 Ejempo de como recopilar datos de Twitter.
 
 Recopilar las últimas tendencias
