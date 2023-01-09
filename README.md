@@ -11,7 +11,7 @@ instalat puppeteer:
 
 
 <h1>1. Para los que quieren saber más de nuestras administraciones.</h1>
-Ejemplo de scrapin de las Contrataciones y concesiones del Estado Español.
+Ejemplo de scraping de las Contrataciones y concesiones del Estado Español.
 
 <h2>scraping-contrataciondelestado-es2.js</h2>
 
