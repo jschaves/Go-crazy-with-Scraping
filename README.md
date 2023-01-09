@@ -1,5 +1,5 @@
 # Go-crazy-with-Scraping
-Go crazy with Scraping, aprende arecopilar datos con NODE y puppeteer
+Go crazy with Scraping, aprende a recopilar datos con NODE y puppeteer
 
 instalar node npm:
 
