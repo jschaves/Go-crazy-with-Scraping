@@ -81,3 +81,15 @@ Ejempo de como recopilar datos de Twitter.
 Recopilar las últimas tendencias
 
 Resultado array con las últimas tendencias 
+
+<h2>scraping_query_trends_twitter.js</h2>
+
+<b>` > node scraping_query_trends_twitter.js `</b>
+
+<b>URL: https://twitter.com/search?q=' + search + '&src=trend_click&vertical=trends </b>
+
+Ejempo de como recopilar datos de una búsqueda en Twitter.
+
+Recopila links, ruta de imágenes y texto de los u últimos twitter de esa búsqueda. 
+
+Resultado array con las esos datos
