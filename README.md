@@ -92,6 +92,6 @@ Resultado array con las últimas tendencias
 
 Ejempo de como recopilar datos de una búsqueda en Twitter.
 
-Recopila links, ruta de imágenes y texto de los u últimos twitter de esa búsqueda. 
+Recopila links, ruta de imágenes y texto de los u últimos twitter más relevantes de esa búsqueda. 
 
 Resultado array con las esos datos
