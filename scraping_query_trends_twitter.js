@@ -16,13 +16,13 @@ const path = require('path');
 		var result_ = await page.evaluate(() => {
 			var rows = document.querySelectorAll('article');
 			return Array.from(rows, row => {
-				let img_ = row.querySelectorAll('img');
+			let img_ = row.querySelectorAll('img');
     			let src_ = Array.from(img_, column => column.src);
-				let text_ = row.querySelectorAll('div');
+			let text_ = row.querySelectorAll('div');
     			let text1 = Array.from(text_, column => column.innerText);
-				let text__ = row.querySelectorAll('span');
+			let text__ = row.querySelectorAll('span');
     			let text2 = Array.from(text__, column => column.innerText);
-				let link_ = row.querySelectorAll('a');
+			let link_ = row.querySelectorAll('a');
     			let link__ = Array.from(link_, column => column.href);
 				let result = src_.concat(text1).concat(text2).concat(link__).filter(Boolean);
 				Array.prototype.unicos = function () {
