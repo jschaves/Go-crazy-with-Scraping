@@ -86,7 +86,9 @@ Resultado array con las últimas tendencias
 
 <b>` > node scraping_query_trends_twitter.js `</b>
 
-<b>URL: https://twitter.com/search?q=' + search + '&src=trend_click&vertical=trends </b>
+<b>URL: https://twitter.com/search?q=XXXXXX&src=trend_click&vertical=trends </b>
+
+<b> let search = 'Texto a buscar'; </b>
 
 Ejempo de como recopilar datos de una búsqueda en Twitter.
 
