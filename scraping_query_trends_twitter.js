@@ -9,7 +9,7 @@ const path = require('path');
 		const context = await Browser.createIncognitoBrowserContext();
 		const page=await Browser.newPage();
 		await page.setDefaultNavigationTimeout(0);
-		let search = 'Shakira';
+		let search = 'Texto a buacar';
 		await page.goto('https://twitter.com/search?q=' + search + '&src=trend_click&vertical=trends', {waitUntil: 'domcontentloaded'});
 		await page.waitForTimeout(5000);	
 		await page.screenshot({ path: "example.png" });
